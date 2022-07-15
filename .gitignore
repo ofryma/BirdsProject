@@ -1,6 +1,12 @@
 .idea/
 venv/
-test.py
 openCV-exemples/
 ESP8266_connection/
 __pycache__/
+
+.buildozer/
+bin/
+
+
+test.py
+camtest.py
