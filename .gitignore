@@ -1,7 +1,6 @@
 .idea/
 venv/
 openCV-exemples/
-ESP8266_connection/
 __pycache__/
 
 .buildozer/
